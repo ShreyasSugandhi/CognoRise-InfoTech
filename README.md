@@ -28,4 +28,4 @@ Feel free to reach out for any questions or feedback. Happy coding!
 
 Author: Shreyas Sugandhi
 Email: shreyashsugandhi@gmail.com
-Linkedin: Shreyas Sugandhi
+Linkedin: https://www.linkedin.com/in/shreyassugandhi/
