@@ -12,7 +12,14 @@ As measured by the unemployment rate, unemployment has sharply increased during 
 Dataset
 The dataset utilized in this analysis offers comprehensive insights into the unemployment dynamics during the COVID-19 crisis across India's states. It provides crucial information for understanding how different regions of the country have been affected. The dataset includes key indicators such as the unemployment rate, employment figures, and labour participation rates.
 
-Project
+Task 2: 
+Project: 80 Cereals uses the data “80 Cereals”, which is a dataset composed of 77 entries with 16 measured variables. We will use statistical methods to analyze a dataset of cereal ratings in order to effectively predict a person's rating for a cereal. We will test our predictions by answering the questions listed below.
+* What are the most popular types of cereals and brands?
+* Are there any relationships between sugar content and rating?
+* Is there a relationship between fat content and calories?
+* What are the most influential factors or features that contribute to the ratings of cereals in the Cereals80 dataset?
+
+Through the utilization of a Random Forest Regressor, we gain valuable insights into which features wield the greatest influence on predicting consumer ratings. The bar chart showcases sugars and calories as two pivotal factors contributing to our ability to forecast ratings. Therefore,if ever we develop a machine learning model, sugars and calories emerge as the best candidates for predictor variables. With this, we can ready our data for the first step of Feature Engineering, which is Feature Selection.
 
 Acknowledgements
 Special thanks to kaggle for providing the data used in this analysis.
@@ -21,3 +28,4 @@ Feel free to reach out for any questions or feedback. Happy coding!
 
 Author: Shreyas Sugandhi
 Email: shreyashsugandhi@gmail.com
+Linkedin: Shreyas Sugandhi
