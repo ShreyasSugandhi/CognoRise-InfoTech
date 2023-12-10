@@ -21,6 +21,13 @@ Project: 80 Cereals uses the data “80 Cereals”, which is a dataset composed 
 
 Through the utilization of a Random Forest Regressor, we gain valuable insights into which features wield the greatest influence on predicting consumer ratings. The bar chart showcases sugars and calories as two pivotal factors contributing to our ability to forecast ratings. Therefore,if ever we develop a machine learning model, sugars and calories emerge as the best candidates for predictor variables. With this, we can ready our data for the first step of Feature Engineering, which is Feature Selection.
 
+Task 3:
+Project Title: Wine Quality Prediction
+
+The objective of this project is to analyze a dataset of red wine properties and quality ratings to gain insights into the factors that influence wine quality. This analysis aims to identify key features that are most strongly correlated with high-quality wine and provide valuable recommendations to winemakers or enthusiasts for improving wine quality. The project will involve data exploration, visualization, statistical analysis, and the development of predictive models to achieve these objectives.
+In my third task at CognoRise Info Tech, I've been entrusted with the development of analysing data as due to privacy and logistic issues, only physicochemical (inputs) and sensory(the output) variables are available.
+I'm gaining insights into what dataset can be viewed as classification or regression tasks
+
 Acknowledgements
 Special thanks to kaggle for providing the data used in this analysis.
 
