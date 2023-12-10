@@ -26,7 +26,7 @@ Project Title: Wine Quality Prediction
 
 The objective of this project is to analyze a dataset of red wine properties and quality ratings to gain insights into the factors that influence wine quality. This analysis aims to identify key features that are most strongly correlated with high-quality wine and provide valuable recommendations to winemakers or enthusiasts for improving wine quality. The project will involve data exploration, visualization, statistical analysis, and the development of predictive models to achieve these objectives.
 
-In my third task at CognoRise Info Tech, I've been entrusted with the development of analysing data as due to privacy and logistic issues, only physicochemical (inputs) and sensory(the output) variables are available.
+The project involves the analysis of a wine quality dataset, encompassing both exploratory data analysis and machine learning modeling. This comprehensive approach aims to gain insights into the relationships between various chemical properties and wine quality, while also demonstrating the steps involved in data preparation, modeling, and evaluation.
 I'm gaining insights into what dataset can be viewed as classification or regression tasks
 
 Acknowledgements
